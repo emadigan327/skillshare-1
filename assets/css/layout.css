@@ -1,41 +1,41 @@
-	body{
+body{
 		margin:0;
-	}
+}
 	
-	ul{
+ul{
 		list-style: none;
 		margin: 0;
-	}
+}
 
-	.nav{
+.nav{
 
 		width: 1900px;
 		height: 250px;
 
-	}
+}
 
-	.container{
+.container{
 		margin: 0px;
 		max-width: 1100px;
 		height: 100%;
 
-	}
+}
 
-	.menu{
+.menu{
 		
 		list-style: none;
 		display: inline-block;
 		width: 500px;
 		float:center;
-	}
+}
 
-	.menu > li{
+.menu > li{
 		padding-top: 100px;
 		padding-left: 60px;
 		display: inline-block;
-	}
+}
 
-	.logo{
+.logo{
 
 		height: 200px;
 		width: 80px;
@@ -43,4 +43,4 @@
 		padding-left: 50px;
 		padding-top: 30px;
 
-	}
+}
